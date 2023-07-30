@@ -7,8 +7,6 @@ function Footer () {
       <p className='footer__item'>Footer</p>
       <p className='footer__item'>Footer</p>
       <p className='footer__item'>Footer</p>
-      <p className='footer__item'>Footer</p>
-      <p className='footer__item'>Footer</p>
     </div>
   )
 }

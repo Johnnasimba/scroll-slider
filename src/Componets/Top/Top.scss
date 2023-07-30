@@ -1,15 +1,15 @@
 
-.footer {
+.top {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 100px;
-  background-color: #232222;
+  background-color: #1b162c;
   color: #fff;
   &__item {
-    padding: 100px 0;
-    font-size:1.5rem;
-    font-weight: 500;
+      padding: 100px 0;
+      font-size:1.5rem;
+      font-weight: 500;
   }
 }
