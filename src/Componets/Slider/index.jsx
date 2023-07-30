@@ -26,7 +26,7 @@ function Slider () {
             {stores[0].desc}
           </p>
           <a
-            href='www.example.com'
+            href='https://www.example.com'
             target='_blank'
             rel='noopener noreferrer'
             className='slider__link'

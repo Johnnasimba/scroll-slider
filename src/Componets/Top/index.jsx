@@ -5,7 +5,6 @@ function Top () {
   return (
     <div className='top'>
       <p className='top__item'>Top</p>
-      <p className='top__item'>Top</p>
     </div>
   )
 }
